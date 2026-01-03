@@ -12,4 +12,6 @@ Este projeto tem como objetivo analisar anúncios de veículos usados, investiga
     - paint_color: valores ausentes foram substituídos pela categoria explícita "unknown".
 
     - is_4wd: valores ausentes foram interpretados como veículos sem tração 4x4 e preenchidos com 0.
-https://projeto-render-q2ji.onrender.com
+
+
+URL do aplicativo no Render: https://projeto-render-q2ji.onrender.com
